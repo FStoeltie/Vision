@@ -20,3 +20,5 @@ Weighted Voronoi Stippling, Adrian Secord. In: Proceedings of the 2nd Internatio
 
 
 Two Jupyter notebook files are available: _VoronoiDemo1.ipynb_ contains the default - slow but detailed - implementation. _VoronoiDemo1PrecomputeStipples-Final.ipynb_ implements the fast stippling approach but with a (slight) loss of detail.
+
+The _Voronoi_Stippling_Ferdi-Final.pdf_ offers a detailed explanation of every step in the process including including an explanation of Centroidal Voronoi diagrams.
